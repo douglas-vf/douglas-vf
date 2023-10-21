@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/douglas-vf/douglas-vf/assets/68282237/b00433e9-85e8-479c-ac95-c2b95b787e32)
+
+
 <!--
 **douglas-vf/douglas-vf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
