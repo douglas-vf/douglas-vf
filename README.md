@@ -15,10 +15,12 @@
 
 
 **Learning:**
+
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="img/icons/Mongo.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="img/icons/sass.png" /></a>
 
 **Previously worked with:**
+
 <a href="https://www.w3schools.com/html/" title="Html"><img src="img/icons/html.png" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server/" title="SqlServer"><img src="img/icons/sqlserver.jpg" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="img/icons/dotnet.png" /></a>
